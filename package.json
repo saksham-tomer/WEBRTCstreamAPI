@@ -16,6 +16,7 @@
     "express": "^4.19.2",
     "nginx": "^1.0.8",
     "socket.io": "^4.7.5",
+    "typescript": "^5.4.5",
     "uuid": "^9.0.1"
   }
 }
